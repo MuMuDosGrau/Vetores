@@ -1,0 +1,5 @@
+var nomes = ["Roddrigo" , "joão" , "Maria" , "José"]
+//ídicie :    0            1        2         3
+
+console.log (nomes[1])
+//imprime João
